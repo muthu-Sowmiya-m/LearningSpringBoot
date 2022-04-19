@@ -1,0 +1,24 @@
+2022-04-18 14:11:48 - Starting SimpleLoggingExampleApplication using Java 17.0.2 on admins-MBP with PID 7600 (/Users/muthusowmiya/Downloads/SimpleLoggingExample/target/classes started by muthusowmiya in /Users/muthusowmiya/Downloads/SimpleLoggingExample)
+2022-04-18 14:11:48 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-18 14:11:48 - No active profile set, falling back to 1 default profile: "default"
+2022-04-18 14:11:49 - Tomcat initialized with port(s): 8080 (http)
+2022-04-18 14:11:49 - Starting service [Tomcat]
+2022-04-18 14:11:49 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-18 14:11:49 - Initializing Spring embedded WebApplicationContext
+2022-04-18 14:11:49 - Root WebApplicationContext: initialization completed in 421 ms
+2022-04-18 14:11:49 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-18 14:11:49 - Started SimpleLoggingExampleApplication in 0.829 seconds (JVM running for 1.022)
+2022-04-18 14:11:49 - Accessed Main method()
+2022-04-18 14:11:49 - Application Running
+2022-04-18 14:17:40 - Starting SimpleLoggingExampleApplication using Java 17.0.2 on admins-MBP with PID 7692 (/Users/muthusowmiya/Downloads/SimpleLoggingExample/target/classes started by muthusowmiya in /Users/muthusowmiya/Downloads/SimpleLoggingExample)
+2022-04-18 14:17:40 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-18 14:17:40 - No active profile set, falling back to 1 default profile: "default"
+2022-04-18 14:17:40 - Tomcat initialized with port(s): 8080 (http)
+2022-04-18 14:17:40 - Starting service [Tomcat]
+2022-04-18 14:17:40 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-18 14:17:40 - Initializing Spring embedded WebApplicationContext
+2022-04-18 14:17:40 - Root WebApplicationContext: initialization completed in 425 ms
+2022-04-18 14:17:40 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-18 14:17:40 - Started SimpleLoggingExampleApplication in 0.811 seconds (JVM running for 1.015)
+2022-04-18 14:17:40 - Accessed Main method()
+2022-04-18 14:17:40 - Application Running
