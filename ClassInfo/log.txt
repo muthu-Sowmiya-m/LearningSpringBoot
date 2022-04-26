@@ -1,0 +1,141 @@
+2022-04-26 13:02:17 - Starting ClassInfoApplication using Java 17.0.2 on admins-MBP with PID 4671 (/Users/muthusowmiya/Downloads/ClassInfo/target/classes started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:02:17 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:02:17 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:02:17 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-26 13:02:17 - Finished Spring Data repository scanning in 22 ms. Found 3 JPA repository interfaces.
+2022-04-26 13:02:17 - Tomcat initialized with port(s): 8080 (http)
+2022-04-26 13:02:17 - Starting service [Tomcat]
+2022-04-26 13:02:17 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-26 13:02:17 - Initializing Spring embedded WebApplicationContext
+2022-04-26 13:02:17 - Root WebApplicationContext: initialization completed in 787 ms
+2022-04-26 13:02:17 - HikariPool-1 - Starting...
+2022-04-26 13:02:18 - HikariPool-1 - Start completed.
+2022-04-26 13:02:18 - H2 console available at '/h2'. Database available at 'jdbc:h2:~/test'
+2022-04-26 13:02:18 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-26 13:02:18 - HHH000412: Hibernate ORM core version 5.6.7.Final
+2022-04-26 13:02:18 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-26 13:02:18 - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-04-26 13:02:18 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-26 13:02:18 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-26 13:02:18 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-26 13:02:19 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-26 13:02:19 - Started ClassInfoApplication in 2.264 seconds (JVM running for 2.481)
+2022-04-26 13:06:56 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 4768 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:06:56 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:06:56 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:06:57 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:06:57 - Initializing Servlet ''
+2022-04-26 13:06:57 - Completed initialization in 1 ms
+2022-04-26 13:06:57 - Started ControllerTests in 0.874 seconds (JVM running for 1.449)
+2022-04-26 13:08:49 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 4803 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:08:49 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:08:49 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:08:50 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:08:50 - Initializing Servlet ''
+2022-04-26 13:08:50 - Completed initialization in 1 ms
+2022-04-26 13:08:50 - Started ControllerTests in 0.965 seconds (JVM running for 1.467)
+2022-04-26 13:13:52 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 4881 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:13:52 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:13:52 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:13:53 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:13:53 - Initializing Servlet ''
+2022-04-26 13:13:53 - Completed initialization in 0 ms
+2022-04-26 13:13:53 - Started ControllerTests in 0.873 seconds (JVM running for 1.379)
+2022-04-26 13:15:23 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 4904 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:15:23 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:15:23 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:15:24 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:15:24 - Initializing Servlet ''
+2022-04-26 13:15:24 - Completed initialization in 0 ms
+2022-04-26 13:15:24 - Started ControllerTests in 0.929 seconds (JVM running for 1.402)
+2022-04-26 13:16:09 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 4916 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:16:09 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:16:09 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:16:10 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:16:10 - Initializing Servlet ''
+2022-04-26 13:16:10 - Completed initialization in 0 ms
+2022-04-26 13:16:10 - Started ControllerTests in 0.922 seconds (JVM running for 1.415)
+2022-04-26 13:27:54 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5328 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:27:54 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:27:54 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:27:54 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:27:54 - Initializing Servlet ''
+2022-04-26 13:27:54 - Completed initialization in 1 ms
+2022-04-26 13:27:54 - Started ControllerTests in 0.894 seconds (JVM running for 1.35)
+2022-04-26 13:28:38 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5342 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:28:38 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:28:38 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:28:38 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:28:38 - Initializing Servlet ''
+2022-04-26 13:28:38 - Completed initialization in 1 ms
+2022-04-26 13:28:38 - Started ControllerTests in 0.859 seconds (JVM running for 1.321)
+2022-04-26 13:30:02 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5365 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:30:02 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:30:02 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:30:03 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:30:03 - Initializing Servlet ''
+2022-04-26 13:30:03 - Completed initialization in 1 ms
+2022-04-26 13:30:03 - Started ControllerTests in 0.825 seconds (JVM running for 1.314)
+2022-04-26 13:31:17 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5391 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:31:17 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:31:17 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:31:17 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:31:17 - Initializing Servlet ''
+2022-04-26 13:31:17 - Completed initialization in 1 ms
+2022-04-26 13:31:17 - Started ControllerTests in 0.828 seconds (JVM running for 1.286)
+2022-04-26 13:32:19 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5408 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:32:19 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:32:19 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:32:20 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:32:20 - Initializing Servlet ''
+2022-04-26 13:32:20 - Completed initialization in 1 ms
+2022-04-26 13:32:20 - Started ControllerTests in 0.856 seconds (JVM running for 1.418)
+2022-04-26 13:32:26 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5411 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:32:26 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:32:26 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:32:27 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:32:27 - Initializing Servlet ''
+2022-04-26 13:32:27 - Completed initialization in 1 ms
+2022-04-26 13:32:27 - Started ControllerTests in 0.916 seconds (JVM running for 1.425)
+2022-04-26 13:32:53 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5427 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:32:53 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:32:53 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:32:54 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:32:54 - Initializing Servlet ''
+2022-04-26 13:32:54 - Completed initialization in 1 ms
+2022-04-26 13:32:54 - Started ControllerTests in 0.951 seconds (JVM running for 1.451)
+2022-04-26 13:33:26 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5433 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:33:26 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:33:26 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:33:27 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:33:27 - Initializing Servlet ''
+2022-04-26 13:33:27 - Completed initialization in 0 ms
+2022-04-26 13:33:27 - Started ControllerTests in 0.845 seconds (JVM running for 1.308)
+2022-04-26 13:46:11 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5603 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:46:11 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:46:11 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:46:12 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:46:12 - Initializing Servlet ''
+2022-04-26 13:46:12 - Completed initialization in 1 ms
+2022-04-26 13:46:12 - Started ControllerTests in 0.863 seconds (JVM running for 1.367)
+2022-04-26 13:52:20 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5689 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:52:20 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:52:20 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:52:21 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:52:21 - Initializing Servlet ''
+2022-04-26 13:52:21 - Completed initialization in 1 ms
+2022-04-26 13:52:21 - Started ControllerTests in 0.852 seconds (JVM running for 1.335)
+2022-04-26 13:53:00 - Starting ControllerTests using Java 17.0.2 on admins-MBP with PID 5703 (started by muthusowmiya in /Users/muthusowmiya/Downloads/ClassInfo)
+2022-04-26 13:53:00 - Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-26 13:53:00 - No active profile set, falling back to 1 default profile: "default"
+2022-04-26 13:53:01 - Initializing Spring TestDispatcherServlet ''
+2022-04-26 13:53:01 - Initializing Servlet ''
+2022-04-26 13:53:01 - Completed initialization in 1 ms
+2022-04-26 13:53:01 - Started ControllerTests in 0.989 seconds (JVM running for 1.467)
+2022-04-26 14:44:13 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m55s219ms).
+2022-04-26 15:04:55 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m11s777ms).
+2022-04-26 15:30:08 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m12s722ms).
+2022-04-26 15:38:57 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m18s998ms).
+2022-04-26 15:48:44 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m47s192ms).
+2022-04-26 16:17:58 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m14s61ms).
+2022-04-26 16:25:23 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m54s342ms).
